@@ -308,7 +308,7 @@ section
 }
 .header_content
 {
-	width: calc(110% - 279px);
+	width: calc(110% - 236px);
 	height: 100%;
 }
 .header_content::before
