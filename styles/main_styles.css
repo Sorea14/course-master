@@ -1228,9 +1228,9 @@ input:last-of-type
 }
 .testimonial_image
 {
-	width: 98px;
-	height: 98px;
-	border-radius: 50%;
+	width: 320px;
+	height: 320px;
+	border-radius: 80%;
 	overflow: hidden;
 }
 .testimonial_image img
