@@ -405,7 +405,7 @@ section
 	display: block;
 	position: relative;
 	font-size: 18px;
-	font-weight: 500;
+	font-weight: 100;
 	color: #FFFFFF;
 	padding-left: 12px;
 }
@@ -874,7 +874,7 @@ section
 	width: 55px;
 	height: 4px;
 	content: '';
-	background: #ffb606;
+	background: #96c94b;
 }
 
 /*********************************
@@ -985,7 +985,7 @@ section
 {
 	width: 67px;
 	height: 67px;
-	background: #ffb606;
+	background: #96c94b;
 	margin-left: auto;
 }
 .course_price span
@@ -1215,7 +1215,7 @@ input:last-of-type
 .quote
 {
 	font-size: 36px;
-	color: #ffb606;
+	color: #96c94b;
 }
 .testimonials_text
 {
@@ -1243,7 +1243,7 @@ input:last-of-type
 	font-size: 16px;
 	font-weight: 700;
 	text-transform: uppercase;
-	color: #f6af03;
+	color: #96c94b;
 	margin-top: 21px;
 }
 .testimonial_title
@@ -1276,7 +1276,7 @@ input:last-of-type
 	width: 16px !important;
 	height: 16px !important;
 	border: none;
-	background: #ffb606 !important;
+	background: #d47304 !important;
 }
 
 /*********************************
@@ -1299,14 +1299,14 @@ input:last-of-type
 {
 	width: 131px;
 	height: 131px;
-	border: solid 2px #ffb606;
+	border: solid 2px #b24b07;
 	margin-bottom: 18px;
 }
 .event_day
 {
 	font-size: 48px;
 	font-weight: 700;
-	color: #ffb606;
+	color: #70ca0f;
 	margin-bottom: 1px;
 	line-height: 1;
 }
