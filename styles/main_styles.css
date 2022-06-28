@@ -382,7 +382,7 @@ section
 }
 .main_nav_item a:hover
 {
-	color: #96c94b;
+	color: #ffb606;
 }
 
 /*********************************
@@ -874,7 +874,7 @@ section
 	width: 55px;
 	height: 4px;
 	content: '';
-	background: #ffb606;
+	background: #96c94b;
 }
 
 /*********************************
@@ -985,7 +985,7 @@ section
 {
 	width: 67px;
 	height: 67px;
-	background: #ffb606;
+	background: #96c94b;
 	margin-left: auto;
 }
 .course_price span
