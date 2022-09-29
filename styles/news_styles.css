@@ -283,7 +283,7 @@ section
 	transform: translateX(-50%);
 	width: 1318px;
 	height: 104px;
-	background: #FFFFFF;
+	background: #ffffff6a;
 	z-index: 10;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -301,7 +301,7 @@ section
 }
 .header_content
 {
-	width: calc(100% - 279px);
+	width: calc(110% - 239px);
 	height: 100%;
 }
 .header_content::before
@@ -399,7 +399,7 @@ section
 	position: relative;
 	font-size: 18px;
 	font-weight: 500;
-	color: #FFFFFF;
+	color: #ffffff96;
 	padding-left: 12px;
 }
 
@@ -428,7 +428,7 @@ section
 }
 .hamburger_container:hover i
 {
-	color: #ffb606;
+	color: #ffb4065b;
 }
 
 /*********************************
@@ -442,7 +442,7 @@ section
 	right: -50vw;
 	width: 50vw;
 	height: 100vh;
-	background: #FFFFFF;
+	background: #ffffff86;
 	z-index: 12;
 	-webkit-transition: all 0.6s ease;
 	-moz-transition: all 0.6s ease;
@@ -506,7 +506,7 @@ section
 }
 .menu_item a:hover
 {
-	color: #ffb606;
+	color: #ffb4065c;
 }
 .menu_close_container
 {
@@ -553,7 +553,7 @@ section
 .menu_close_container:hover .menu_close,
 .menu_close_container:hover .menu_close::after
 {
-	background: #ffb606;
+	background: #ffb4066c;
 }
 
 /*********************************
@@ -591,7 +591,7 @@ section
 }
 .menu_social_item a i:hover
 {
-	color: #ffb606;
+	color: #ffb4063c;
 }
 .menu_container.active .menu_social_container
 {
@@ -668,7 +668,7 @@ section
 	-ms-transform: translateX(-50%);
 	-o-transform: translateX(-50%);
 	transform: translateX(-50%);
-	background: #ffb606;
+	background:  #ffb4063c;
 	padding-top: 24px;
 	padding-bottom: 18px;
 	padding-left: 39px;
