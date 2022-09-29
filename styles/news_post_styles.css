@@ -297,7 +297,7 @@ section
 }
 .header_content
 {
-	width: calc(100% - 279px);
+	width: calc(100% - 236px);
 	height: 100%;
 }
 .header_content::before
@@ -325,7 +325,7 @@ section
 .logo span
 {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 30px;
+	font-size: 40px;
 	font-weight: 900;
 	color: #3a3a3a;
 	vertical-align: middle;
@@ -394,7 +394,7 @@ section
 	display: block;
 	position: relative;
 	font-size: 18px;
-	font-weight: 500;
+	font-weight: 100;
 	color: #FFFFFF;
 	padding-left: 12px;
 }
@@ -664,7 +664,7 @@ section
 	-ms-transform: translateX(-50%);
 	-o-transform: translateX(-50%);
 	transform: translateX(-50%);
-	background: #ffb606;
+	background: #ffb4063c;
 	padding-top: 24px;
 	padding-bottom: 18px;
 	padding-left: 39px;
@@ -1162,8 +1162,8 @@ section
 .footer
 {
 	width: 100%;
-	padding-top: 86px;
-	background: #1a1a1a;
+	padding-top: 56px;
+	background: #96c94b;
 }
 .footer .section_title h1
 {
