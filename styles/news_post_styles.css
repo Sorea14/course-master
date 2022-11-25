@@ -297,7 +297,7 @@ section
 }
 .header_content
 {
-	width: calc(100% - 279px);
+	width: calc(100% - 190px);
 	height: 100%;
 }
 .header_content::before
@@ -350,7 +350,7 @@ section
 .main_nav_item
 {
 	display: inline-block;
-	margin-right: 40px;
+	margin-right: 20px;
 }
 .main_nav_item:last-child
 {
@@ -1163,11 +1163,11 @@ section
 {
 	width: 100%;
 	padding-top: 86px;
-	background: #1a1a1a;
+	background: #96c94b;
 }
 .footer .section_title h1
 {
-	color: #FFFFFF;
+	color: #000000;
 }
 
 /*********************************
