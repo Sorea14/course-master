@@ -279,7 +279,7 @@ section
 	transform: translateX(-50%);
 	width: 1318px;
 	height: 104px;
-	background: #FFFFFF;
+	background: #ffffffae;
 	z-index: 10;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -395,7 +395,7 @@ section
 	position: relative;
 	font-size: 18px;
 	font-weight: 500;
-	color: #FFFFFF;
+	color: #ffffff96;
 	padding-left: 12px;
 }
 
@@ -438,7 +438,7 @@ section
 	right: -50vw;
 	width: 50vw;
 	height: 100vh;
-	background: #FFFFFF;
+	background: #ffffff86;
 	z-index: 12;
 	-webkit-transition: all 0.6s ease;
 	-moz-transition: all 0.6s ease;
@@ -643,7 +643,7 @@ section
 	position: absolute;
 	top: 0;
 	left: 0;
-	width: 100%;
+	width: 107%;
 	height: 100%;
 }
 .home_background
@@ -664,7 +664,7 @@ section
 	-ms-transform: translateX(-50%);
 	-o-transform: translateX(-50%);
 	transform: translateX(-50%);
-	background: #ffb606;
+	background: #ffb4063c;
 	padding-top: 24px;
 	padding-bottom: 18px;
 	padding-left: 39px;
