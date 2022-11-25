@@ -54,7 +54,7 @@ body
 	font-size: 14px;
 	font-weight: 400;
 	background: #FFFFFF;
-	color: #a5a5a5;
+	color: #000000;
 }
 div
 {
@@ -84,7 +84,7 @@ p a
 {
 	display: inline;
 	position: relative;
-	color: inherit;
+	color: #000000;
 	border-bottom: solid 1px #ffa07f;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -297,7 +297,7 @@ section
 }
 .header_content 
 {
-	width: calc(110% - 239px);
+	width: calc(110% - 219px);
 	height: 100%;
 }
 .header_content::before
@@ -674,7 +674,7 @@ section
 {
 	font-size: 72px;
 	font-weight: 400;
-	color: #FFFFFF;
+	color: #000000;
 	line-height: 0.5;
 	white-space: nowrap;
 }
@@ -810,7 +810,7 @@ section
 .news_post_author a:hover,
 .news_post_comments a:hover
 {
-	color: #a5a5a5;
+	color: #000000;
 }
 .news_post_meta
 {
@@ -1255,7 +1255,7 @@ section
 .footer_list_item a
 {
 	font-size: 14px;
-	color: #a5a5a5;
+	color: #000000;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
@@ -1270,7 +1270,7 @@ section
 {
 	font-size: 14px;
 	font-weight: 400;
-	color: #a5a5a5;
+	color: #000000;
 	margin-bottom: 22px;
 }
 .footer_contact_item:last-child
